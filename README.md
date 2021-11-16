@@ -1,6 +1,4 @@
-# MaskedFaceIdentification
-
-## 마스크 착용에서의 얼굴 인식 시스템
+## MaskedFaceIdentification - 마스크 착용에서의 얼굴 인식 시스템
 
 ### 1. 원본 데이터
 - 마스크 착용하지 않은 얼굴, 마스크 착용한 얼굴
