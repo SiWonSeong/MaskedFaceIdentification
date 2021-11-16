@@ -29,3 +29,7 @@
 - 서로 다른 이미지를 1:1로 비교하여 L2 distance 계산
 - f1 score가 최대가 되는 distance를 threshold로 정의
 - 이러한 threshold를 기준으로 genuine pair, imposter pair를 예측하여 accuracy, f1 score, AUC를 기록함.
+
+### 5. 참고자료
+- **Seong, S. W.**, Han, N. Y., Ryu, J., Hwang, H., Joung, J., Lee, J., & Lee, E. C. (2020, November). Authentication of Facial Images with Masks Using Periocular Biometrics. In International Conference on Intelligent Human Computer Interaction (pp. 326-334). Springer, Cham.
+- https://github.com/HanNayeoniee/Masked-Face-Authentication
